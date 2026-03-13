@@ -32,7 +32,7 @@ After analyzing the dataset, several interesting patterns emerged:
 These patterns demonstrate how data visualization can help identify critical insights for crime monitoring and public safety planning.
 
 ##5. 📊Dashboard Preview
-
+(https://github.com/durvapatkar1/Crime_Analysis_Dashboard/blob/main/Crime_dashboard_ss.png)
 
 ##6. 🛠 𝐒𝐤𝐢𝐥𝐥𝐬 & 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝
 
